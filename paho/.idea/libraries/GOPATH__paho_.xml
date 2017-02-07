@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;paho&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../mttq_subscribe" />
+      <root url="file://$PROJECT_DIR$/../mttq" />
+      <root url="file://$PROJECT_DIR$/../rabbitmq_send" />
+      <root url="file://$PROJECT_DIR$/../rabbitmq_recieve" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../honnef.co" />
+      <root url="file://$PROJECT_DIR$/../ciblentWebsiteService" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../collections" />
+      <root url="file://$PROJECT_DIR$/../golang-chat-example" />
+      <root url="file://$PROJECT_DIR$/../httpstat-master" />
+      <root url="file://$PROJECT_DIR$/../goexp" />
+      <root url="file://$PROJECT_DIR$/../sample" />
+      <root url="file://$PROJECT_DIR$/../fullmetalgo" />
+      <root url="file://$PROJECT_DIR$/../sample2" />
+      <root url="file://$PROJECT_DIR$/../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../cockroach" />
+      <root url="file://$PROJECT_DIR$/../rabbitmq" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../mttq_subscribe" />
+      <root url="file://$PROJECT_DIR$/../mttq" />
+      <root url="file://$PROJECT_DIR$/../rabbitmq_send" />
+      <root url="file://$PROJECT_DIR$/../rabbitmq_recieve" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../honnef.co" />
+      <root url="file://$PROJECT_DIR$/../ciblentWebsiteService" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../collections" />
+      <root url="file://$PROJECT_DIR$/../golang-chat-example" />
+      <root url="file://$PROJECT_DIR$/../httpstat-master" />
+      <root url="file://$PROJECT_DIR$/../goexp" />
+      <root url="file://$PROJECT_DIR$/../sample" />
+      <root url="file://$PROJECT_DIR$/../fullmetalgo" />
+      <root url="file://$PROJECT_DIR$/../sample2" />
+      <root url="file://$PROJECT_DIR$/../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../cockroach" />
+      <root url="file://$PROJECT_DIR$/../rabbitmq" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
